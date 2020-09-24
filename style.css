@@ -1,0 +1,29 @@
+#results {
+    display: none;
+}
+
+#clear-fields {
+    visibility: hidden;
+}
+
+#title-line {
+    display: none;
+}
+
+.disabled-link {
+    cursor: default;
+    pointer-events: none;
+    text-decoration: none;
+}
+
+#dollar-amount {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+#stock-amount {
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
